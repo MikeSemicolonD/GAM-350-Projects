@@ -1,3 +1,1 @@
-# GAM-350
-
-A repo for SNHU's GAM-350 course
+All lab projects created for SNHU's GAM-350 - Multiplayer Game Development course.
